@@ -313,4 +313,4 @@ For issues, questions, or suggestions:
 - **Streamlit** - For an exceptional web framework
 - **Open Source Community** - For amazing tools and libraries
 
-**Made with ❤️ by Yash | Flavour Fusion ©️ 2026**
+**Made with ❤️ by Cherry | Flavour Fusion ©️ 2026**
